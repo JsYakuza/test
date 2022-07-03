@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tonweb": "^0.0.50"
-  },
-  "type": "module"
+    "tonweb": "^0.0.50",
+    "tonweb-mnemonic": "^1.0.1",
+    "utf8": "^3.0.0"
+  }
 }
